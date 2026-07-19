@@ -1,0 +1,19 @@
+# Data analysis
+numpy
+pandas
+
+# Machine learning
+scikit-learn
+
+# Visualization
+matplotlib
+
+# Notebooks
+jupyterlab
+ipykernel
+
+# Code quality and testing
+ruff
+pytest
+pytest-cov
+pre-commit
