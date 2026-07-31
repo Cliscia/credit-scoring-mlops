@@ -7,6 +7,10 @@ scikit-learn
 
 # Visualization
 matplotlib
+seaborn
+
+# Statistics
+statsmodels
 
 # Notebooks
 jupyterlab
